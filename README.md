@@ -1,1 +1,1 @@
-Welcome to my Practice Codes repository! This repository is a collection of code snippets, projects, and exercises I have worked on while learning and practicing various programming and data analysis concepts.
+Welcome to my Practice Codes repository! This repository is a collection of code snippets, projects, and exercises I have practice on while learning
